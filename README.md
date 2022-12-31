@@ -6,7 +6,9 @@
 - 👨‍💻 **Newest Repo:** [Terranian-Translator](https://github.com/FuzzyTheFoxx/Terranian-Translator)**!**
 - 💻 **Website** [link](https://fuzzythefoxx.github.io/) **;P**
 ### My news ;P
+* `31.12.2022` - Happy New Year!
 * `19.12.2022` - I'm getting a little brake for christmas. I'll still be active, but not as much. ;/
+
 <!---
 This is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
